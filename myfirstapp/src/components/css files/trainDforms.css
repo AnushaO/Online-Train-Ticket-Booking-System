@@ -1,0 +1,37 @@
+.lab{
+    font-size:x-large;
+    display:list-item ;
+    margin-left: 40px;
+    list-style: none;
+    color: #0C46E2;
+    padding: 10px;
+    
+}
+
+.ip{
+
+    margin-left: 40px;
+   
+    background-color:darkgrey ;
+    border-radius: 10px;
+    width:50%;
+    height:40px;
+}
+
+.fu{
+
+margin-top: 50px;
+
+}
+
+.frm{
+
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.by{
+
+    float: right;
+    margin-right: 600px;
+}

@@ -1,0 +1,31 @@
+.cl{
+    background-color:#0C46E2;
+    color: aliceblue;
+    font: size 80px;
+   
+    
+}
+
+.fe{
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+   font-style: normal;
+}
+
+.imagehandle{
+
+    width: 30px;
+    height: 20px;
+
+}
+
+.ffg{
+   
+    position:static;
+     display:flex;
+      flex-direction:column; 
+      justify-content:space-between;
+
+  
+}

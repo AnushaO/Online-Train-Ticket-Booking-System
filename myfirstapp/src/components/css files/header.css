@@ -1,0 +1,38 @@
+ul{
+    list-style:none;
+    display: inline-block;
+
+
+}
+
+nav li{
+ display: inline-block;
+margin :20px;
+color: aliceblue;
+margin-left: 60px;
+
+
+}
+
+nav{
+    background-color: #0C46E2;
+}
+
+Link{
+
+    text-decoration: none;
+    
+    
+}
+
+.tt{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.tko{
+
+    font-size: 30px;
+    font-family: Georgia, serif
+}
+
